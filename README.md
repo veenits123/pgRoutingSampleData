@@ -1,8 +1,8 @@
-[**Boost::Edge Coloring**](https://www.boost.org/doc/libs/1_75_0/libs/graph/doc/edge_coloring.html)
+## [**Boost::Edge Coloring**](https://www.boost.org/doc/libs/1_75_0/libs/graph/doc/edge_coloring.html)
 
-## Boost Example: https://www.boost.org/doc/libs/1_75_0/libs/graph/example/edge_coloring.cpp
+### Boost Example: https://www.boost.org/doc/libs/1_75_0/libs/graph/example/edge_coloring.cpp
 
-## pgRouting Sample Data: https://docs.pgrouting.org/latest/en/sampledata.html
+### pgRouting Sample Data: https://docs.pgrouting.org/latest/en/sampledata.html
 
 # Diagram of Boost Example
 
@@ -18,7 +18,7 @@
 # Diagram of pgRouting Sample Data
 
 ## Initial State:
-![sample_data](https://user-images.githubusercontent.com/39950919/112090882-5ae3f980-8bba-11eb-9e00-fe86d1d20c1c.png)
+![sampleData](https://user-images.githubusercontent.com/39950919/112091443-64ba2c80-8bbb-11eb-86b2-5030aac9463f.jpeg)
 
 ## Final State:
 ![18](https://user-images.githubusercontent.com/39950919/112090926-6cc59c80-8bba-11eb-8c4e-a5971f30d190.jpeg)
