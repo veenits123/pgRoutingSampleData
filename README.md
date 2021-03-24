@@ -24,4 +24,4 @@
 ![sample_data_final](https://user-images.githubusercontent.com/39950919/112328289-354f1100-8cdc-11eb-9448-6500f0c180ef.jpeg)
 
 # Animation of pgRouting Sample Data
-
+![Animated GIF-downsized_large](https://user-images.githubusercontent.com/39950919/112342744-7ea55d80-8ce8-11eb-82f0-172d231571eb.gif)
