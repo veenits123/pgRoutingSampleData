@@ -5,9 +5,9 @@
 #include <iostream>
 
 using namespace boost;
+using namespace std;
 
 int main(int, char*[]) {
-    using namespace std;
     typedef adjacency_list<vecS, vecS, undirectedS, no_property, size_t,
                            no_property>
         Graph;
@@ -39,7 +39,7 @@ int main(int, char*[]) {
     for (size_t i = 0; i < sizeof(edges) / sizeof(edges[0]); i++) {
         cout << "  " << edges[i].first << "-"
              << edges[i].second << ": "
-             << G[edge(edges[i].first, edges[i].second, G).first] + 1 << endl;
+             << G[edge(edges[i].first, edges[i].second, G).first]+1 << endl;
     }
 
     return 0;
