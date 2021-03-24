@@ -21,7 +21,7 @@
 ![sampleData](https://user-images.githubusercontent.com/39950919/112091443-64ba2c80-8bbb-11eb-86b2-5030aac9463f.jpeg)
 
 ## Final State:
-![18](https://user-images.githubusercontent.com/39950919/112090926-6cc59c80-8bba-11eb-8c4e-a5971f30d190.jpeg)
+![sample_data_final](https://user-images.githubusercontent.com/39950919/112328289-354f1100-8cdc-11eb-9448-6500f0c180ef.jpeg)
 
 # Animation of pgRouting Sample Data
-![sampleData](https://user-images.githubusercontent.com/39950919/112090997-8c5cc500-8bba-11eb-9d6a-55333d4001ba.gif)
+
