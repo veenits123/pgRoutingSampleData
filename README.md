@@ -4,6 +4,46 @@
 
 ### pgRouting Sample Data: https://docs.pgrouting.org/latest/en/sampledata.html
 
+## Want to run these codes on your Computer?
+Then better make sure you have **GNU g++/gcc compiler** and **Boost Library** installed.
+
+Now we are ready to go just Download the codes and compile it.
+
+### How?
+Make sure you are here: `/pgRoutingSampleData/edgeColoring/boostExample $`
+
+I have used **boostExample**, you can do the same with other.
+
+Now run the following command:
+```
+g++ boostExample.cpp -o boostExample -Wall
+
+```
+Then run this:
+```
+./boostExample
+
+```
+And you get output like this:
+```
+Colored using 5 colors
+  1-4: 5
+  1-6: 1
+  2-3: 3
+  2-5: 4
+  2-7: 2
+  2-10: 1
+  3-4: 1
+  3-5: 2
+  4-6: 3
+  4-9: 2
+  5-7: 5
+  6-7: 4
+  6-8: 2
+  7-8: 1
+
+```
+
 # Diagram of Boost Example
 
 ## Initial State:
